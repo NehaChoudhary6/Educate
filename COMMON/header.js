@@ -67,7 +67,7 @@ document.write(`<!DOCTYPE html>
               <li><a href="index.html">Home</a></li>
               <li><a href="aboutUs.html">About Us</a></li>
               <li><a href="services.html">Services</a></li>
-              <li><a href="notes.html">notes</a></li>
+              <li><a href="notes.html">To-Do-List</a></li>
               <li><a href="contactUs.html"><i class="fa-solid fa-magnifying-glass"></i></a></li>
             </ul>
           </div>
